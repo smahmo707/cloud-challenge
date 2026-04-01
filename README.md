@@ -1,14 +1,5 @@
 # Cloud Engineer Intern Coding Challenge
 
-## Overview
-This project is a small containerized web service built with Flask and Nginx.
-
-The Flask app serves a simple page that returns:
-
-Hello from my project!
-
-Nginx is used as a reverse proxy in front of the Flask app, and HTTPS is enabled using a self-signed certificate generated locally for demo purposes.
-
 ## Instructions to run locally
 1. Make sure Docker Desktop is installed and running.
 2. Open a terminal in the project folder.
